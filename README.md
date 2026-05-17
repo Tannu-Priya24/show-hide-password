@@ -21,8 +21,7 @@ The project allows users to:
 - Basic UI designing
 
 ## Project Screenshot
-
-![Project Screenshot](./screenshots/homepage.png)
+https://github.com/Tannu-Priya24/show-hide-password/blob/main/homepage.png
 
 ## Run the Project
 
